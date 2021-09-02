@@ -1,0 +1,18 @@
+{
+    "name": "typora-material-theme",
+    "version": "1.0.0",
+    "description": "Typora Material Theme",
+    "repository": "https://github.com/HADB/typora-material-theme",
+    "author": "Bean",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "dev": "rollup -c -w",
+        "build": "rollup -c"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-concat": "^2.6.1",
+        "gulp-rename": "^2.0.0"
+    }
+}
