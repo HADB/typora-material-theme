@@ -37,7 +37,7 @@
 }
 
 .cm-s-inner .CodeMirror-cursor {
-    border-left: 1px solid #ffcc00;
+    border-left: 2px solid #ffcc00 !important;
 }
 .cm-s-inner.cm-fat-cursor .CodeMirror-cursor {
     background-color: #607c8b80 !important;
