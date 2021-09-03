@@ -33,6 +33,7 @@
     --table-n2-bg-color: var(--table-header-bg-color);
     --input-bg-color: var(--item-hover-bg-color);
     --btn-hover-bg-color: var(--item-hover-bg-color);
+    --heading-char-color: var(--second-text-color);
 }
 
 html {
@@ -184,13 +185,6 @@ h6 {
     line-height: 1.4;
     cursor: text;
     color: var(--title-text-color);
-}
-
-h3.md-focus:before,
-h4.md-focus:before,
-h5.md-focus:before,
-h6.md-focus:before {
-    visibility: hidden;
 }
 
 h1 {
